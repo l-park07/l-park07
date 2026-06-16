@@ -1,4 +1,6 @@
-## Hi there 👋
+- Computer Science & Engineering and Cognitive Science Student at Univeristy of Connecticut
+- Currently developing Prickle, an eczema tracking app
+- How to reach me: laura.park@uconn.edu
 
 <!--
 **l-park07/l-park07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
